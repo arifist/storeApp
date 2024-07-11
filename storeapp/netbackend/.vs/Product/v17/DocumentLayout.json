@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A699B67-33B3-401E-834D-2462F45CE4EB}|Entities\\Entities.csproj|d:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\entities\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A699B67-33B3-401E-834D-2462F45CE4EB}|Entities\\Entities.csproj|solutionrelative:entities\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A699B67-33B3-401E-834D-2462F45CE4EB}|Entities\\Entities.csproj|d:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\entities\\models\\model.wsd||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0A699B67-33B3-401E-834D-2462F45CE4EB}|Entities\\Entities.csproj|solutionrelative:entities\\models\\model.wsd||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A699B67-33B3-401E-834D-2462F45CE4EB}|Entities\\Entities.csproj|d:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\entities\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A699B67-33B3-401E-834D-2462F45CE4EB}|Entities\\Entities.csproj|solutionrelative:entities\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78E55E5-5BD3-4B44-8652-BDB636AF134E}|Repositories\\Repositories.csproj|d:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\repositories\\config\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78E55E5-5BD3-4B44-8652-BDB636AF134E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\config\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78E55E5-5BD3-4B44-8652-BDB636AF134E}|Repositories\\Repositories.csproj|d:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\repositories\\config\\commentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78E55E5-5BD3-4B44-8652-BDB636AF134E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\config\\commentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78E55E5-5BD3-4B44-8652-BDB636AF134E}|Repositories\\Repositories.csproj|d:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\repositories\\contracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78E55E5-5BD3-4B44-8652-BDB636AF134E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78E55E5-5BD3-4B44-8652-BDB636AF134E}|Repositories\\Repositories.csproj|d:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\repositories\\contracts\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78E55E5-5BD3-4B44-8652-BDB636AF134E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78E55E5-5BD3-4B44-8652-BDB636AF134E}|Repositories\\Repositories.csproj|d:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\repositories\\contracts\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78E55E5-5BD3-4B44-8652-BDB636AF134E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\contracts\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78E55E5-5BD3-4B44-8652-BDB636AF134E}|Repositories\\Repositories.csproj|d:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78E55E5-5BD3-4B44-8652-BDB636AF134E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78E55E5-5BD3-4B44-8652-BDB636AF134E}|Repositories\\Repositories.csproj|d:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\repositories\\fakeproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78E55E5-5BD3-4B44-8652-BDB636AF134E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\fakeproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78E55E5-5BD3-4B44-8652-BDB636AF134E}|Repositories\\Repositories.csproj|d:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78E55E5-5BD3-4B44-8652-BDB636AF134E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78E55E5-5BD3-4B44-8652-BDB636AF134E}|Repositories\\Repositories.csproj|d:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\repositories\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78E55E5-5BD3-4B44-8652-BDB636AF134E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78E55E5-5BD3-4B44-8652-BDB636AF134E}|Repositories\\Repositories.csproj|d:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78E55E5-5BD3-4B44-8652-BDB636AF134E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D78E55E5-5BD3-4B44-8652-BDB636AF134E}|Repositories\\Repositories.csproj|d:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\repositories\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78E55E5-5BD3-4B44-8652-BDB636AF134E}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD4D789-1D31-45D8-A75B-35935A7A0CBC}|Services\\Services.csproj|d:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\services\\contracts\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD4D789-1D31-45D8-A75B-35935A7A0CBC}|Services\\Services.csproj|solutionrelative:services\\contracts\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD4D789-1D31-45D8-A75B-35935A7A0CBC}|Services\\Services.csproj|d:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\services\\contracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD4D789-1D31-45D8-A75B-35935A7A0CBC}|Services\\Services.csproj|solutionrelative:services\\contracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD4D789-1D31-45D8-A75B-35935A7A0CBC}|Services\\Services.csproj|d:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\services\\contracts\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD4D789-1D31-45D8-A75B-35935A7A0CBC}|Services\\Services.csproj|solutionrelative:services\\contracts\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD4D789-1D31-45D8-A75B-35935A7A0CBC}|Services\\Services.csproj|d:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\services\\commentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD4D789-1D31-45D8-A75B-35935A7A0CBC}|Services\\Services.csproj|solutionrelative:services\\commentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD4D789-1D31-45D8-A75B-35935A7A0CBC}|Services\\Services.csproj|d:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\services\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD4D789-1D31-45D8-A75B-35935A7A0CBC}|Services\\Services.csproj|solutionrelative:services\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD4D789-1D31-45D8-A75B-35935A7A0CBC}|Services\\Services.csproj|d:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD4D789-1D31-45D8-A75B-35935A7A0CBC}|Services\\Services.csproj|solutionrelative:services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5C963F-6C8C-442B-A7AB-37DB73AF463F}|Api\\Api.csproj|d:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\api\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5C963F-6C8C-442B-A7AB-37DB73AF463F}|Api\\Api.csproj|solutionrelative:api\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5C963F-6C8C-442B-A7AB-37DB73AF463F}|Api\\Api.csproj|d:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5C963F-6C8C-442B-A7AB-37DB73AF463F}|Api\\Api.csproj|solutionrelative:api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5C963F-6C8C-442B-A7AB-37DB73AF463F}|Api\\Api.csproj|d:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5C963F-6C8C-442B-A7AB-37DB73AF463F}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Entities\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Product.cs",
+              "ToolTip": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Entities\\Models\\Product.cs",
+              "RelativeToolTip": "Entities\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T09:00:20.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model.wsd",
+              "DocumentMoniker": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Entities\\Models\\Model.wsd",
+              "RelativeDocumentMoniker": "Entities\\Models\\Model.wsd",
+              "ToolTip": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Entities\\Models\\Model.wsd",
+              "RelativeToolTip": "Entities\\Models\\Model.wsd",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-06T09:00:19.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Entities\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Comment.cs",
+              "ToolTip": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Entities\\Models\\Comment.cs",
+              "RelativeToolTip": "Entities\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T09:00:18.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductConfig.cs",
+              "DocumentMoniker": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Repositories\\Config\\ProductConfig.cs",
+              "RelativeDocumentMoniker": "Repositories\\Config\\ProductConfig.cs",
+              "ToolTip": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Repositories\\Config\\ProductConfig.cs",
+              "RelativeToolTip": "Repositories\\Config\\ProductConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T09:00:13.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommentConfig.cs",
+              "DocumentMoniker": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Repositories\\Config\\CommentConfig.cs",
+              "RelativeDocumentMoniker": "Repositories\\Config\\CommentConfig.cs",
+              "ToolTip": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Repositories\\Config\\CommentConfig.cs",
+              "RelativeToolTip": "Repositories\\Config\\CommentConfig.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T09:00:11.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Repositories\\Contracts\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IProductRepository.cs",
+              "ToolTip": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Repositories\\Contracts\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T09:00:09.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Repositories\\Contracts\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IRepositoryBase.cs",
+              "ToolTip": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Repositories\\Contracts\\IRepositoryBase.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T09:00:09.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepositoryManager.cs",
+              "DocumentMoniker": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Repositories\\Contracts\\IRepositoryManager.cs",
+              "RelativeDocumentMoniker": "Repositories\\Contracts\\IRepositoryManager.cs",
+              "ToolTip": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Repositories\\Contracts\\IRepositoryManager.cs",
+              "RelativeToolTip": "Repositories\\Contracts\\IRepositoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T09:00:08.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Repositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CommentRepository.cs",
+              "ToolTip": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Repositories\\CommentRepository.cs",
+              "RelativeToolTip": "Repositories\\CommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T09:00:05.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FakeProductRepository.cs",
+              "DocumentMoniker": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Repositories\\FakeProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\FakeProductRepository.cs",
+              "ToolTip": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Repositories\\FakeProductRepository.cs",
+              "RelativeToolTip": "Repositories\\FakeProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T09:00:03.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RepositoryContext.cs",
+              "DocumentMoniker": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Repositories\\RepositoryContext.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoryContext.cs",
+              "ToolTip": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Repositories\\RepositoryContext.cs",
+              "RelativeToolTip": "Repositories\\RepositoryContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T09:00:02.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoryBase.cs",
+              "ToolTip": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "Repositories\\RepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T09:00:01.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RepositoryManager.cs",
+              "DocumentMoniker": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Repositories\\RepositoryManager.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoryManager.cs",
+              "ToolTip": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Repositories\\RepositoryManager.cs",
+              "RelativeToolTip": "Repositories\\RepositoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T08:59:59.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICommentService.cs",
+              "DocumentMoniker": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Services\\Contracts\\ICommentService.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\ICommentService.cs",
+              "ToolTip": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Services\\Contracts\\ICommentService.cs",
+              "RelativeToolTip": "Services\\Contracts\\ICommentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T08:59:55.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Services\\Contracts\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\IProductService.cs",
+              "ToolTip": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Services\\Contracts\\IProductService.cs",
+              "RelativeToolTip": "Services\\Contracts\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T08:59:54.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IServiceManager.cs",
+              "DocumentMoniker": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Services\\Contracts\\IServiceManager.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\IServiceManager.cs",
+              "ToolTip": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Services\\Contracts\\IServiceManager.cs",
+              "RelativeToolTip": "Services\\Contracts\\IServiceManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T08:59:53.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T08:25:03.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CommentManager.cs",
+              "DocumentMoniker": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Services\\CommentManager.cs",
+              "RelativeDocumentMoniker": "Services\\CommentManager.cs",
+              "ToolTip": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Services\\CommentManager.cs",
+              "RelativeToolTip": "Services\\CommentManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAywAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T08:59:48.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Services\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Services\\ProductManager.cs",
+              "ToolTip": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Services\\ProductManager.cs",
+              "RelativeToolTip": "Services\\ProductManager.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T08:59:44.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Services\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "Services\\ServiceManager.cs",
+              "ToolTip": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Services\\ServiceManager.cs",
+              "RelativeToolTip": "Services\\ServiceManager.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA7wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T08:59:41.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Api\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\CommentsController.cs",
+              "ToolTip": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Api\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "Api\\Controllers\\CommentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T08:59:27.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Api\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T08:50:15.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "D:\\yazilim\\react\\btkai-master\\btkai-master\\storeapp\\netbackend\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T08:25:49.766Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

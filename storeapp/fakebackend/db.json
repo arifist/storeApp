@@ -1,0 +1,120 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Cheese",
+      "price": 15.27,
+      "imageUrl": "/images/1.jpg",
+      "comments": [
+        {
+          "id": 1,
+          "text": "Harika bir ürün."
+        },
+        {
+          "id": 2,
+          "text": ""
+        },
+        {
+          "id": 2,
+          "text": "aaaabbbbb"
+        },
+        {
+          "id": 4,
+          "text": "Mükemmel tavsiye ediyorum."
+        },
+        {
+          "id": 5,
+          "text": "Bu fiyata bu ürün kaçmaz arkadaşlar. Gözü kapalı alın. "
+        },
+        {
+          "id": 6,
+          "text": "Kaçırmayın alın derim."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "AirPods Pro 3",
+      "price": 576.8,
+      "imageUrl": "/images/1.jpg",
+      "comments": [
+        {
+          "id": 110,
+          "text": "quantifying real-time virtual Human"
+        },
+        {
+          "id": 557,
+          "text": "Keyboard Rustic"
+        },
+        {
+          "id": 811,
+          "text": "recontextualize pink New Towels"
+        },
+        {
+          "id": 922,
+          "text": "Alley Front-line Italy Pound synergies"
+        },
+        {
+          "id": 5,
+          "text": "Öneriyorum, gerçek güzel bir ürün."
+        },
+        {
+          "id": 6,
+          "text": "Kasayı beğenmedim."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Chair",
+      "price": 476.63,
+      "imageUrl": "/images/3.jpg",
+      "comments": [
+        {
+          "id": 364,
+          "text": "Rustic incentivize"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Mouse",
+      "price": 819.59,
+      "imageUrl": "/images/4.jpg",
+      "comments": [
+        {
+          "id": 235,
+          "text": "Sausages schemas"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Chips",
+      "price": 22.37,
+      "imageUrl": "/images/5.jpg",
+      "comments": [
+        {
+          "id": 6,
+          "text": "bus firewall"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Shirt",
+      "price": 766.78,
+      "imageUrl": "/images/6.jpg",
+      "comments": [
+        {
+          "id": 792,
+          "text": "generate Group"
+        },
+        {
+          "id": 2,
+          "text": "Tuş sesleri çok güzel, çok beğendim."
+        }
+      ]
+    }
+  ]
+}
